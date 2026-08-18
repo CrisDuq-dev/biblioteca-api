@@ -1,0 +1,8 @@
+Evidencia GA7-220501096-AA5-EV01
+Aprendiz: Cristian Camilo Duque Franco
+Ficha: 3235896 (ADSO)
+
+Enlace del repositorio en GitHub:
+https://github.com/CrisDuq-dev/biblioteca-api
+
+(Reemplaza el enlace anterior por la URL real una vez subas el proyecto a tu cuenta de GitHub. Ver instrucciones en la sección "Cómo subirlo a tu GitHub" del mensaje de Claude.)
